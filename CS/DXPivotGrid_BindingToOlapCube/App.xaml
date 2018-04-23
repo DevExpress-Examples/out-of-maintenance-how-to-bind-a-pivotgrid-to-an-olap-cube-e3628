@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="DXPivotGrid_BindingToOlapCube.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">87-4A-56-DA-3A-85-3E-0C-B4-71-F5-C9-68-37-F7-23-82-43-0F-BC</my:String>
+  </Application.Resources>
+</Application>
