@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXPivotGrid_BindingToOlapCube/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_BindingToOlapCube/MainPage.xaml))
+<!-- default file list end -->
 # How to: Bind a PivotGrid to an OLAP Cube
 
 
